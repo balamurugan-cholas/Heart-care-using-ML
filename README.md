@@ -80,8 +80,6 @@ http://localhost:3000/
 - Result: Indicates if heart disease is detected or not.
 - Accuracy: Displays model accuracy on test data.
 
-**👤 Author**
-
 ## 👤 Author
 
 Balamurugan  
